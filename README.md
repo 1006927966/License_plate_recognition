@@ -7,4 +7,5 @@
    模型提取  
    链接: https://pan.baidu.com/s/1Jl0-8oqX05OuXK6aKoot2g  密码: 5o5u  
    （1）其中last_ckpt.pt是检测模型，将下载后的路径放到文件detectinfer.py中  
-   （2）netCrnn_10.pth是识别模型，将下载后的路径放到recoginfer.py中
+   （2）netCrnn_10.pth是识别模型，将下载后的路径放到recoginfer.py中    
+   ## 手打不易如果感觉有所帮助，请点亮star 加一个小星星
